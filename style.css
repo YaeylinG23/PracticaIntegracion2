@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    width: 18rem;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
